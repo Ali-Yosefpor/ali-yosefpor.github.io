@@ -1,0 +1,190 @@
+{
+    "menu":[
+        {"id":1,"name":"فیلیمو","link":"/"},
+        {"id":2,"name":"فیلیموتور","link":"#"},
+        {"id":3,"name":"فیلیمومدرسه","link":"#"}
+ 
+    ],
+    "sub":[
+        {"id":1,"name":"خرید اشتراک","link":"#"}
+    ],
+    "login":[
+        {"id":2,"name":"ورود","link":"/login"}
+    ],
+    "slider":[
+        {"id":1,"src":"https://i.ibb.co/x69TmHN/slider1.webp","alt":"slider"},
+        {"id":2,"src":"https://i.ibb.co/nPp41LW/slider2.webp","alt":"slider"},
+        {"id":3,"src":"https://i.ibb.co/d2q7MNg/slider3.webp","alt":"slider"},
+        {"id":4,"src":"https://i.ibb.co/8BdbKzp/slider4.webp","alt":"slider"},
+        {"id":5,"src":"https://i.ibb.co/KbVnRLy/slider5.webp","alt":"slider"},
+        {"id":6,"src":"https://i.ibb.co/hKkDWMY/slider6.webp","alt":"slider"},
+        {"id":7,"src":"https://i.ibb.co/K5sVh3z/slider7.webp","alt":"slider"},
+        {"id":8,"src":"https://i.ibb.co/HzHFVfs/slider8.webp","alt":"slider"},
+        {"id":9,"src":"https://i.ibb.co/JcZtbNC/slider9.webp","alt":"slider"}
+    ],
+    "offer":[
+        {"id":1,"text":"90 هزار اپیزود فیلم و سریال برای تماشا داری"},
+        {"id":2,"text":"می تونی دانلود کنی بعد بدون اینترنت تماشا کنی"},
+        {"id":3,"text":"می تونی یک عضو، مخصوص تماشای کودک بسازی"}
+        
+    ],
+    "sliderContent1":[
+        {"id":1,"text":"با فیلیمو بی وقفه فیلم ببین"}
+
+    ],
+    "sliderContent2":[
+        {"id":1,"text":"کنترل  همیشه دست توست!"}
+
+    ],
+    "buySubscription":[
+        {"id":1,"text":"خرید اشتراک و تماشا"}
+    ],
+    "discount":[
+        {"id":1,"text":"تخفیف ویژه برای کاربران جدید"}
+    ],
+    "mostPopularHeader":[
+        {"id":1,"text":"محبوب ترین های فیلیمو"}
+    ],
+    "mostPopularHeaderSelect":[
+        {"id":1,"text":"سریال"},
+        {"id":2,"text":"فیلم"}
+    ],
+    "serialsMostPopular":[
+        {"id":1,"src":"https://i.ibb.co/M92bZ1N/serial1.webp" , "alt":"serial"},
+        {"id":2,"src":"https://i.ibb.co/ZW0Stpc/serial2.webp" , "alt":"serial"},
+        {"id":3,"src":"https://i.ibb.co/1Q8rgmr/serial3.webp" , "alt":"serial"},
+        {"id":4,"src":"https://i.ibb.co/nn1bfx4/serial4.webp" , "alt":"serial"},
+        {"id":5,"src":"https://i.ibb.co/P59fNmw/serial5.webp" , "alt":"serial"},
+        {"id":6,"src":"https://i.ibb.co/t2dgj2s/serial6.webp" , "alt":"serial"}
+    ],
+    "filmsMostPopular":[
+        {"id":1,"src":"https://i.ibb.co/jwtM0q6/film1.webp" , "alt":"film"},
+        {"id":2,"src":"https://i.ibb.co/9YMv0mz/film2.webp" , "alt":"film"},
+        {"id":3,"src":"https://i.ibb.co/K5htqMw/film3.webp" , "alt":"film"},
+         {"id":4,"src":"https://i.ibb.co/t2dgj2s/serial6.webp" , "alt":"serial"},
+         {"id":5,"src":"https://i.ibb.co/P59fNmw/serial5.webp" , "alt":"serial"},
+        {"id":6,"src":"https://i.ibb.co/nn1bfx4/serial4.webp" , "alt":"serial"}
+       
+       
+    ],
+    "serials":[
+        {"id":1,"title":"اسکار","director":"مهران مدیری",
+        "type1":"ریلیتی شو",
+        "type2":"گیم شو",
+        "description":"اسکار، محصول ویستا مدیا یک رئالیتی شوی چالش محور است که مهمانان آن همگی از بازیگران و افراد مشهور هستند.",
+         "img":"../../../images/serialDetail/oscar.webp", "alt":"serial" , "icon":"https://i.ibb.co/PzGJH7B/oscaricon.webp"}
+
+         
+    ],
+    "swiperserial1":[
+        {"id":1,"src":"https://i.ibb.co/80bCLLR/slider1.webp","title":"فصل 1 قسمت 1"},
+        {"id":2,"src":"https://i.ibb.co/RYwKjv5/slider2.webp","title":"فصل 1 قسمت 2"},
+        {"id":3,"src":"https://i.ibb.co/B2CPP06/slider3.webp","title":"فصل 1 قسمت 3"},
+        {"id":4,"src":"https://i.ibb.co/3fdYXBM/slider4.webp","title":"فصل 1 قسمت 4"}
+    ],
+    "watch":[
+        {"id":1,"src":"https://i.ibb.co/fqg1579/device-Yaghi.webp","title":"تماشای فیلیمو با همه دستگاه ها","description":"می توانید فیلیمو را به صورت هم زمان روی 3 دستگاه مختلف مثل موبایل، تبلت، لپ تاپ، تلویزیون و ... تماشا کنید."}
+    ],
+    "devices":[
+        {"id":1,"icon":"https://i.ibb.co/cchkg1Y/laptop.webp","title":"کامپیوتر و لپ تاپ","detail":"windows PC - MacOS - Chorom OS"},
+        {"id":2,"icon":"https://i.ibb.co/BnKqqBN/mobile.webp","title":"موبایل و تبلت","detail":"Android Phone & Tablets - Iphone and Ipad - Amazon Fire Tablets"},
+        {"id":3,"icon":"https://i.ibb.co/nkRQwqx/game.webp","title":"کنسول های بازی (Browser)","detail":"Xbox Series S - Xbox Seris X - PS5 - PS4"}
+    ],
+    "learn":[
+        {"id":1,"src":"https://i.ibb.co/ryftCqh/TVBG.webp","title":"چطور با تلویزیون، فیلیمو تماشا کنم؟","description":"ما برای راحتی شما و تماشای فیلیمو روی تلویزیون های مختلف 6 روش را فراهم کردیم. هر کدام از این 6 روش یک ویدیو آموزشی دارند که می توانید از لینک زیر، آن ها را تماشا کنید و روشی که با تلویزیون شما سازگار است را انتخاب کنید.","btn":"ویدیوهای آموزشی تماشا با تلویزیون >"}
+    ],
+    "learnDevices":[
+        {"id":1,"icon":"https://i.ibb.co/sKvKnNy/TV.webp","title":"تلویزیون","description":"Amazon Fire TV - LG TVs - Chrome Cast - Apple TV - Android TV devices - Samsung"},
+        {"id":2,"icon":"https://i.ibb.co/gvNbH4w/android-TV.webp","title":"اندروید تی وی","description":"NVIDIA - amazon - xiaomi - minix - skystream - turewell - ematic - humax - matricom"}
+    ],
+    "world":[
+        {"id":1,"img":"https://i.ibb.co/L0T0KNq/bg-kids.webp","title":"دنیایی متنوع از فیلم و کارتون های کودکانه","description":"ساخت فیلیمو کودک این امکان را می دهد که با انتخاب سن فرزندتان، یک فضای امن برای تماشای کودک بسازید؛ یعنی محتوای مخصوص سن خودش را ببیند و به بقیه فیلم و سریال ها دسترسی نداشته باشد."}
+    ],
+    "worldBtns":[
+        {"id":1,"title":"فیلیمو کودک بساز"},
+        {"id":2,"title":"تماشای فیلیمو کودک"}
+    ],
+    "online":[
+        {"id":1,"title":"سینما آنلاین فیلیمو"}
+    ],
+    "onlineDescription":[
+        {"id":1,"text":"فیلم های روز سینمای ایران"},
+        {"id":2,"text":"8 ساعت زمان برای مشاهده فیلم در هر کجا"},
+        {"id":3,"text":"خرید یک بلیت برای تماشا همراه با همه خانواده"}
+    ],
+    "onlineFilms":[
+        {"id":1,"src":"https://i.ibb.co/j8C423J/film1.webp","title":"نگهبان شب","type":"اکران آنلاین","director":"رضا میرکریمی","btn":"خرید بلیت","cat1":"درام","cat2":""},
+        {"id":2,"src":"https://i.ibb.co/7zDHWrW/film2.webp","title":"گیجگاه","type":"اکران آنلاین","director":"عادل تبریزی","btn":"خرید بلیت","cat1":"کمدی","cat2":"عاشقانه"},
+        {"id":3,"src":"https://i.ibb.co/RCWQQCf/film3.webp","title":"فسیل","type":"اکران آنلاین","director":"کریم امینی","btn":"خرید بلیت","cat1":"کمدی","cat2":"خانوادگی"},
+        {"id":4,"src":"https://i.ibb.co/H2pzxsN/film4.webp","title":"کاپیتان","type":"اکران آنلاین","director":"محمد حمزه ای","btn":"خرید بلیت","cat1":"درام","cat2":"خانوادگی"},
+        {"id":5,"src":"https://i.ibb.co/GJ6p63C/film5.webp","title":"جنگل پرتقال","type":"اکران آنلاین","director":"آرمان خوانساریان","btn":"خرید بلیت","cat1":"درام","cat2":"عاشقانه"},
+        {"id":6,"src":"https://i.ibb.co/F8j52DL/film6.webp","title":"نارگیل 2","type":"اکران آنلاین","director":"داوود اطیابی","btn":"خرید بلیت","cat1":"کمدی","cat2":"موزیکال"}
+    ],
+    "commentsTitle":[
+        {"id":1,"title":"نظر کاربران بعد از تماشای فیلیمو"}
+    ],
+    "comments":[
+        {"id":1,"name":"نیکا کاوند","text":"واقعا عالیه ، خیلی برنامه عالیه من 5 سال این برنامه رو دارم ... درسته یکم اشتراکاش گرونه ولی هنوزم خوبه . ولی اینترنتش نیمبهاست. ممنون از برنامه ی خوبتون"},
+        {"id":2,"name":"F.A","text":"خیلی خوبه تازه فیلم های 2021 رو هم با دوبله داره"},
+        {"id":3,"name":"aref","text":"خیلی برنامه خوبی هست و خیلی سریال متنوع داره"},
+        {"id":4,"name":"fatemehfarahmandfar6","text":"فیلیمو عالی من از فیلیمو راضی هستم"},
+        {"id":5,"name":"سایمان","text":"این برنامه خیلی خوبه من داخل این فیلم نگاه می کنم کلی مامانم فیلم های بزرگسالان نگاه می کنه"},
+        {"id":6,"name":"سالار","text":"همه نصب کنید. رایگان هم داره،با پول هم داره.همه ی فیلم های کمدی،اکشن،درام،عاشقانه،ترسناک و کاتون توش موجود هست. پر از هیجان و شگفتی"},
+        {"id":7,"name":"Manidriver","text":"فیلیمو راضیوم ازت"},
+        {"id":8,"name":"محسن مرصاد","text":"یعنی حرف نداره فقط کافیه اشتراک شو فعال کنی میتونی کل فیل و سریالدهارو راحت تماشا کنی"},
+        {"id":9,"name":"ستایش","text":"عالیییییییییییییی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید"},
+        {"id":10,"name":"mostafa","text":"از وقتی فیلیمو رو نصب کردم دیگه تلویزیون نگاه نمیکنم"}
+    ],
+    "questionsTitle":[
+        {"id":1,"title":"سوالات متداول","description":"سوال شایع دیگر کاربران شاید برای شما پیش امده باشد"}
+    ],
+    "questions":[
+        {"id":1,"title":"آیا می توانم فیلم های موجود در فیلیمو را دانلود کنم؟","answer":"بله، شما می توانید همه فیلم و سریال های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آن ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می توانید اقدارم کنید. برای جزییات بیشتر می توانید فیلم های آموزشی مربوط به دانلود از طریق سایت و دانلود از طریق اپلیکیشن را تماشا کنید."},
+        {"id":2,"title":"آیا فیلیمو برای خارج از ایران در دسترس است؟","answer":"خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست."},
+        {"id":3,"title":"آیا برای تماشای فیلم های اکران آنلاین، باید اشتراک بخرم؟","answer":"تماشای فیلم های اکران آنلاین مانند تماشا در سینمای واقعی استک یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید."},
+        {"id":4,"title":"از کجا می توانم نرم افزار اندروید یا ios فیلیمو را دانلود کنم؟","answer":"برای نصب نرم افزار اندرئیدی فیلیمو می توانید از طریق کافه بازار یا ماکت اقدام به دانلود کنید. یا می توانید روی گزینه رو به رو بزنید و به طور مستقیم فایل نرم افزار را دریافت کنید. (دانلود مستقیم نرم افزار اندروید) برای دانلود نرم افزار ios فیلیمو نیز کافیست روی گزینه رو به رو بزنید و به طور مستقیم فایل نرم افزار را دریافت کنید. (دانلود مستقیم نرم افزار ios)"}
+    ],
+    "filimo":[
+        {"id":1,"icon":"https://i.ibb.co/kyhspNf/logo-text.webp","btn":"خرید اشتراک و تماشا"}
+    ],
+    "filimoDescription":[
+        {"id":1,"text":"هزاران فیلم و سریال خارجی (دوبله و زیرنویس)"},
+        {"id":2,"text":"هزاران انیمیشن و کارتون برای کودکان"},
+        {"id":3,"text":"پشتیبانی 24 ساعته برای راهنمایی شما"}
+    ],
+    "footer":[
+        {"id":1,"text":"تماشا با تلویزیون"},
+        {"id":2,"text":"اپلیکیشن ها"},
+        {"id":3,"text":"تماس و پشتیبانی"},
+        {"id":4,"text":"فروشگاه"},
+        {"id":5,"text":"سایرلینک ها"}
+    ],
+    "subFooter":[
+        {"id":1,"text":"قوانین"},
+        {"id":2,"text":"به ما بپیوندید"},
+        {"id":3,"text":"تبلیغات در فیلیمو"},
+        {"id":4,"text":"لوگو"},
+        {"id":5,"text":"دانلود فیلم و سریال"}
+    ],
+    "freeTitle":[
+        {"id":1,"title":"محتواهای رایگان"}
+    ],
+    "free":[
+        {"id":1,"src":"https://i.ibb.co/ZxrKKpQ/slider1.webp","title":"پایتخت"},
+        {"id":2,"src":"https://i.ibb.co/YZ0SxHb/slider2.webp","title":"عقرب"},
+        {"id":3,"src":"https://i.ibb.co/MNMzDvr/slider3.webp","title":"ملکه گدایان"},
+        {"id":4,"src":"https://i.ibb.co/kBZPC7y/slider4.webp","title":"شاهرگ"},
+        {"id":5,"src":"https://i.ibb.co/Xz99Rdw/slider5.webp","title":"بالشها"},
+        {"id":6,"src":"https://i.ibb.co/k4m0c05/slider6.webp","title":"حماسه دره شیلر"},
+        {"id":7,"src":"https://i.ibb.co/TY10Q5V/slider7.webp","title":"شب های مافیا 2"},
+        {"id":8,"src":"https://i.ibb.co/q0XvNZh/slider8.webp","title":"مردم معمولی"},
+        {"id":9,"src":"https://i.ibb.co/mCDDG0C/slider9.webp","title":"دیرین دیرین"},
+        {"id":10,"src":"https://i.ibb.co/cXMvW5w/slider10.webp","title":"سال های دور از خانه"},
+        {"id":11,"src":"https://i.ibb.co/YbMSkLJ/slider11.webp","title":"دراکولا"},
+        {"id":12,"src":"https://i.ibb.co/VM6Zr4v/slider12.webp","title":"سجاده آتش"},
+        {"id":13,"src":"https://i.ibb.co/YjqQPgZ/slider13.webp","title":"شب های مافیا"},
+        {"id":14,"src":"https://i.ibb.co/McRv5fh/slider14.webp","title":"خوب،بد،جلف:رادیواکتیو"},
+        {"id":15,"src":"https://i.ibb.co/RbFH7wg/slider15.webp","title":"رفیق فابریک"}
+    ]
+
+}
